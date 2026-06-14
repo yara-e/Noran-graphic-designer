@@ -1,0 +1,26 @@
+{
+  "vertical": [
+    {
+      "_id": "65f1a2b3c4d5e6f7a8b90123",
+      "title": "صاحب الأرض - Poster V1",
+      "imgSrc": "/poster1.jpeg"
+    },
+    {
+      "_id": "65f1a2b3c4d5e6f7a8b90124",
+      "title": "صاحب الأرض - Poster V2",
+      "imgSrc": "/poster3.jpeg"
+    }
+  ],
+  "horizontal": [
+    {
+      "_id": "65f1a2b3c4d5e6f7a8b90125",
+      "title": "صاحب الأرض - Landscape Banner 1",
+      "imgSrc": "/poster2.jpeg"
+    },
+    {
+      "_id": "65f1a2b3c4d5e6f7a8b90126",
+      "title": "صاحب الأرض - Landscape Banner 2",
+      "imgSrc": "/banner2.jpg"
+    }
+  ]
+}
