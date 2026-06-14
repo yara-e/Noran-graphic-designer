@@ -9,8 +9,7 @@ export default function Hero() {
   const textClass = "antonio-upright";
 
   return (
-    <section className="relative lg:min-h-screen w-full  flex flex-col items-center pt-60 overflow-hidden lg:justify-start sm:justify-center  sm:h-200">
-      <style>{`
+<section className="relative w-full min-h-screen flex flex-col items-center pt-20 lg:pt-60 overflow-visible lg:justify-start justify-center">      <style>{`
         @import url('https://fonts.googleapis.com/css2?family=Antonio:wght@700&display=swap');
         @import url('https://fonts.googleapis.com/css2?family=Birthstone&display=swap');
         .antonio-upright { font-family: 'Antonio', sans-serif; font-weight: 700; }
